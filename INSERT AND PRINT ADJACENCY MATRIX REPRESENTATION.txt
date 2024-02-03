@@ -129,7 +129,11 @@ enter node2:1
 3.show 
 4.Exit 
 enter choice:3
-0 1 0 0 1 1 0 1 0 0 0 1 0 1 0 0 0 1 0 1 1 0 0 1 0 
+0 1 0 0 1 
+1 0 1 0 0
+0 1 0 1 0 
+0 0 1 0 1 
+1 0 0 1 0 
 1.Addnode 
 2.Addedge 
 3.show 
